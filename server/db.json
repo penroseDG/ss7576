@@ -1,0 +1,46 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "men men 1",
+            "price": 5000,
+            "stock": 5,
+            "image": "https://media.laodong.vn/Storage/NewsPortal/Uploaded/ctvkhampha/2016_03_31/3_HQFP.jpg?w=888&h=592&crop=auto&scale=both",
+            "description": "men men loai 1"
+        },
+        {
+            "id": 2,
+            "name": "men men 2",
+            "price": 4000,
+            "stock": 4,
+            "image": "https://bizweb.dktcdn.net/100/072/558/files/men-men-dac-san-ha-giang-3.jpg?v=1567498058538",
+            "description": "men men loai 2"
+        },
+        {
+            "id": 3,
+            "name": "men men 3",
+            "price": 3000,
+            "stock": 3,
+            "image": "https://static-images.vnncdn.net/files/publish/2023/3/20/men-men-ha-giang-1-1441.jpg",
+            "description": "men men loai 3"
+        }
+    ],
+    "cart": [
+        {
+            "id": 2,
+            "name": "men men 2",
+            "price": 4000,
+            "stock": 4,
+            "image": "https://bizweb.dktcdn.net/100/072/558/files/men-men-dac-san-ha-giang-3.jpg?v=1567498058538",
+            "description": "men men loai 2"
+        },
+        {
+            "id": 3,
+            "name": "men men 3",
+            "price": 3000,
+            "stock": 3,
+            "image": "https://static-images.vnncdn.net/files/publish/2023/3/20/men-men-ha-giang-1-1441.jpg",
+            "description": "men men loai 3"
+        }
+    ]
+}

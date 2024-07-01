@@ -1,0 +1,55 @@
+.products {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+  
+.products h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+  
+.products table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+  
+.products th,
+.products td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+  
+.products th {
+    background-color: #f4f4f4;
+}
+  
+.products td img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+  
+.products button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+  
+.products button:hover {
+    background-color: #218838;
+}
+  
+.products tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+  
+.products tbody tr:hover {
+    background-color: #f1f1f1;
+}
